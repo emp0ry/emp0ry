@@ -4,19 +4,22 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:8b5cf6,100:c084fc&height=200&section=header&text=emp0ry&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Open-Source%20Developer&descSize=18&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:8b5cf6,100:c084fc&height=220&section=header&text=emp0ry&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=%E2%9C%A6%20%20Open-Source%20Developer%20%20%E2%9C%A6&descSize=18&descAlignY=56" width="100%" />
 
 <a href="https://github.com/emp0ry">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=620&lines=Building+apps%2C+tools+%26+utilities;Making+digital+experiences+simpler+%26+cleaner;C%2B%2B+%E2%80%A2+Flutter+%E2%80%A2+Swift+%E2%80%A2+Python;Crafting+things+that+are+enjoyable+to+use" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=640&lines=Building+apps%2C+tools+%26+utilities;Making+digital+experiences+simpler+%26+cleaner;C%2B%2B+%E2%80%A2+Flutter+%E2%80%A2+Swift+%E2%80%A2+Python;Crafting+things+that+are+enjoyable+to+use" alt="Typing SVG" />
 </a>
 
-<br/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=emp0ry&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/emp0ry?tab=followers"><img src="https://img.shields.io/github/followers/emp0ry?label=Followers&style=for-the-badge&color=8b5cf6&labelColor=1a1b27&logo=github" alt="Followers" /></a>
+  <a href="https://github.com/emp0ry?tab=repositories"><img src="https://img.shields.io/badge/Focus-Open%20Source-c084fc?style=for-the-badge&labelColor=1a1b27" alt="Focus" /></a>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=emp0ry&label=Profile%20Views&color=8b5cf6&style=flat-square" alt="Profile views" />
-&nbsp;
-<a href="https://github.com/emp0ry?tab=followers">
-  <img src="https://img.shields.io/github/followers/emp0ry?label=Followers&style=flat-square&color=8b5cf6&logo=github" alt="Followers" />
-</a>
+<p>
+  <a href="https://github.com/emp0ry"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.buymeacoffee.com/emp0ry" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>
+</p>
 
 </div>
 
