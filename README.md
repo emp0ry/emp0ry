@@ -31,9 +31,9 @@
 ```yaml
 name:        "emp0ry"
 role:        "Open-Source Developer"
-focus:       ["apps", "tools", "utilities"]
+focus:       ["apps", "tools", "utilities", "scripts"]
 philosophy:  "Simpler. Cleaner. More enjoyable."
-platforms:   ["Windows", "macOS", "Mobile"]
+platforms:   ["Windows", "macOS", "Linux", "Mobile"]
 currently:   "Shipping open-source projects ☕"
 ```
 
@@ -129,20 +129,6 @@ currently:   "Shipping open-source projects ☕"
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=emp0ry&theme=react-dark&bg_color=00000000&color=c084fc&line=a855f7&point=ffffff&hide_border=true&area=true" width="100%" alt="Activity graph" />
-
-</div>
-
-<br/>
-
-<!-- ============================================= -->
-<!--                  TROPHIES                     -->
-<!-- ============================================= -->
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=emp0ry&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 
 </div>
 
