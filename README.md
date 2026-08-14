@@ -43,46 +43,6 @@ currently:   "Shipping open-source projects ☕"
 <br/>
 
 <!-- ============================================= -->
-<!--               FEATURED PROJECTS               -->
-<!-- ============================================= -->
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">🎬 MiruShin</h3>
-      <p align="center">
-        <a href="https://github.com/emp0ry/MiruShin">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=emp0ry&repo=MiruShin&theme=midnight-purple&hide_border=true&bg_color=00000000&icon_color=c084fc&title_color=a855f7" />
-        </a>
-      </p>
-      <p align="center">Modern media app for anime, dramas, movies, and TV shows.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🎮 ErScripts</h3>
-      <p align="center">
-        <a href="https://github.com/emp0ry/cs2-ErScripts">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=emp0ry&repo=cs2-ErScripts&theme=midnight-purple&hide_border=true&bg_color=00000000&icon_color=c084fc&title_color=a855f7" />
-        </a>
-      </p>
-      <p align="center">CS2 utility with overlay, binds, GSI tools & QoL features.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🖥️ Hide Icons</h3>
-      <p align="center">
-        <a href="https://github.com/emp0ry/Hide-Icons">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=emp0ry&repo=Hide-Icons&theme=midnight-purple&hide_border=true&bg_color=00000000&icon_color=c084fc&title_color=a855f7" />
-        </a>
-      </p>
-      <p align="center">Windows tray app to show/hide desktop icons with a hotkey.</p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ============================================= -->
 <!--                 TECH STACK                    -->
 <!-- ============================================= -->
 
