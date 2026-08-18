@@ -70,14 +70,14 @@ currently:   "Shipping open-source projects ☕"
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=emp0ry&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&icon_color=c084fc&title_color=a855f7&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="emp0ry's GitHub stats" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=emp0ry&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&icon_color=c084fc&title_color=a855f7&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="emp0ry's GitHub stats" />
 <img height="165" src="https://streak-stats.demolab.com?user=emp0ry&theme=midnight-purple&hide_border=true&background=00000000&ring=a855f7&fire=c084fc&currStreakLabel=a855f7" alt="GitHub streak" />
 
 </div>
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emp0ry&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=a855f7&text_color=c9d1d9&langs_count=8" alt="Top languages" />
+<img height="155" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=emp0ry&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=a855f7&text_color=c9d1d9&langs_count=8" alt="Top languages" />
 
 </div>
 
