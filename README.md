@@ -87,6 +87,7 @@ currently:   "Shipping open-source projects ☕"
 <!--               ACTIVITY GRAPH                  -->
 <!-- ============================================= -->
 
+<!--
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -96,6 +97,7 @@ currently:   "Shipping open-source projects ☕"
 </div>
 
 <br/>
+-->
 
 <!-- ============================================= -->
 <!--              CONTRIBUTION SNAKE               -->
